@@ -3,7 +3,7 @@
 This is the web application for **Citizen Hospital**, showcasing the frontend React application with mocked data for visual demonstration.
 
 ## Demo Preview
-You can view the live demo here: [Add Your Deployed Link Here]
+You can view the live demo here: [[Add Your Deployed Link Here]](https://snehasish86.github.io/HospitalWEB/)
 
 ## Features
 - **Home:** Hero section, specialties, emergency contact.
